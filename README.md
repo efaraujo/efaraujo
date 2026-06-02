@@ -18,6 +18,7 @@
 - **Data:** SQL, Excel Avançado  
 - **Visualização:** Dashboards estratégicos, KPIs, storytelling com dados  
 - **Logística:** SLA, fretes, custos, performance operacional, risco
+- **Databricks: GEN IA , Data Analysts, DevOps
 
 ---
 
